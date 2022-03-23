@@ -1,0 +1,8 @@
+package com.flowcode.crudApp.repository;
+
+import com.flowcode.crudApp.model.Employee;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface EmployeeRepository extends JpaRepository<Employee, Long> {
+    // all CRUD database methods
+}

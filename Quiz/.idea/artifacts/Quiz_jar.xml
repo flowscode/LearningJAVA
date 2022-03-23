@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Quiz:jar">
+    <output-path>$USER_HOME$/Documents/Quiz/untitled folder</output-path>
+    <root id="archive" name="Quiz.jar">
+      <element id="module-output" name="Quiz" />
+    </root>
+  </artifact>
+</component>
