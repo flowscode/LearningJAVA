@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Course/Course.iml" filepath="$PROJECT_DIR$/Course/Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaDiscoveryServer/Eureka-Registry.iml" filepath="$PROJECT_DIR$/EurekaDiscoveryServer/Eureka-Registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MicroServices1.iml" filepath="$PROJECT_DIR$/.idea/MicroServices1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/Student.iml" filepath="$PROJECT_DIR$/Student/Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Gateway/spring-gateway.iml" filepath="$PROJECT_DIR$/Spring-Gateway/spring-gateway.iml" />
+    </modules>
+  </component>
+</project>

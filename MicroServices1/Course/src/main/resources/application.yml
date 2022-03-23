@@ -1,0 +1,27 @@
+server:
+  port: 8002
+
+spring:
+  application:
+    name : course-service
+
+  datasource:
+    url : ${datasource.url}
+    username : ${datasource.username}
+    password : ${datasource.password}
+  jpa:
+    properties:
+      hibernate:
+        dialect: ${datasource.dialect}
+        connection:
+          characterEncoding: UTF-8
+          CharSet: UTF 8
+          userUnicode: true
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8091/eureka
